@@ -39,7 +39,7 @@ The data used in this project comes from publicly available sources or simulated
 This project includes visualizations such as:
 - **Pie Charts**: Distribution of Player of the Match awards.
 - **Bar Charts**: Match wins per team by tournament stage.
-- **3D Scatter Plots**: Match data with runs, wickets, and rounds.
+
 
 ---
 
