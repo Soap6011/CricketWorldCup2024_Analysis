@@ -1,0 +1,7 @@
+# Python caches
+--pycache--/
+*.py[cod]
+
+#Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
